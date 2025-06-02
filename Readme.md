@@ -7,3 +7,5 @@ project gabbangerion
 結線狂
 
 Neon Genesis Gabbangelion
+
+濃度
